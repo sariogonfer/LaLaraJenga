@@ -22,6 +22,10 @@ function setChallenge(htmlChallenge) {
   getChallengeElement().innerHTML = htmlChallenge;
 }
 
-(function() {
+function newChallenge() {
   setChallenge(generateChallengeFromList());
+}
+
+(function() {
+  newChallenge();
 })()
