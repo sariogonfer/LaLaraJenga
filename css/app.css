@@ -1,5 +1,15 @@
+body {
+  font-size: -webkit-xxx-large;
+}
+
 #challenge {
+  position: fixed;
+  top: 0;
+  left: 0;
   font-weight: bold;
+  width: 100%;
+  height: 70%;
+	background-color: cyan;
 }
 
 .footer {
@@ -8,7 +18,6 @@
   bottom: 0;
   width: 100%;
   height: 30%;
-  text-align: center;
 }
 
 .footer input {
@@ -16,5 +25,18 @@
   height: 100%;
 	border: none;
 	background-color: red;
+  font-size: -webkit-xxx-large;
 	font-weight: bold;
 }
+
+input.resolve {
+  position: absolute;
+  bottom: 0;
+	width: 100%;
+  height: 30%;
+	border: none;
+	background-color: green;
+  font-size: -webkit-xxx-large;
+	font-weight: bold;
+}
+
