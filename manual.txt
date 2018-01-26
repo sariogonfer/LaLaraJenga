@@ -1,0 +1,60 @@
+Esta es una versión basada en la Jenga, cuyo único objetivo es
+emborrachar a los jugadores implicados.
+
+Emborracharse mucho...
+
+REQUISITOS
+----
+
+Lo primero que necesitamos es tener una Jenga con de colorines.
+En caso de no poseer una, jugamos al Catán extremo, o en su
+defecto, al Risk.
+
+También estaría bien tener un móvil con conexión a la internete,
+pero no es estrictamente necesario.
+
+PREPARACIÓN
+----
+
+Antes de ponernos a jugar debemos de acordar unos cuantos puntos.
+En primer lugar habrá que decidir cuál será la cantidad a beber
+como penalización (un chupito, un trago, un abrebadero,...). A esta
+cantidad la llamaremos U, y la vereis en todo el juego con un
+multiplicador delante 1U, 2U, 5U,... no creo que haga falta
+explicarlo.
+También tendremos que escoger una prueba/castigo por cada color
+que tenga el juega. Podeis también considerar la tonalidad, es
+decir, elegir solo para azul, o diferenciar el azul claro y el
+azul oscuro. Esto según como de creativos os veias.
+Y ya por último, el castigo para el que tire la torre. No seais
+muy putos, y así podeis jugar varias rondas.
+
+EL JUEGO
+----
+
+Pués como todas las Jengas, quitar piececita y ponerla arriba.
+No hace falta completar el piso, únicamente, que la posición y
+dirección de la pieza tenga sentido (nada de diagonales jo putas).
+Cada vez que se saque una ficha, se leerá lo que pone, se actuará
+en consecuencia y se pondrá en la parte alta de la torre. Las
+piezas pueden llevar escrito:
+- Dado: Tira el dado, si sale el mismo color (no tonalidad).
+Bebes 1U. Ejemplo: Si tu piza es verde claro y sacas en la
+tirada un verde claro bebes. Si sacas en la tirada un verde
+oscuro,... TAMBIÉN BEBES.
+- Dado con número: Tiras el dado y bebes el número que saques.
+- CHUPITO AMIGOS: Beben todos 1U.
+- 1U, 2U, ...: Bebes el número que se indica.
+- Mano señalando: Mandas beber 1U a otro jugador.
+- Señal de wifi: Accedeis a la página super guay del juego,
+pulsais "NUEVO RETO" y lo que os cuente. En caso de toner
+móvil/internet, te vuelves a africa puto negro. O tratas esta
+pieza como una del siguiente tipo.
+- Bomba: HAces la prueba que corresponda al color de la pieza y
+que elegisteis en la preparación.
+
+Cuando alguien derribe la torre, tendra que someterse al castigo.
+
+Nada más que si no se hace muy complicado.
+
+Que disfruteis.
