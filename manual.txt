@@ -11,7 +11,8 @@ En caso de no poseer una, jugamos al Catán extremo, o en su
 defecto, al Risk.
 
 También estaría bien tener un móvil con conexión a la internete,
-pero no es estrictamente necesario.
+pero no es estrictamente necesario. La aplicación la podeis
+encontrar en https://sariogonfer.github.io/LaLaraJenga/
 
 PREPARACIÓN
 ----
@@ -46,7 +47,7 @@ oscuro,... TAMBIÉN BEBES.
 - CHUPITO AMIGOS: Beben todos 1U.
 - 1U, 2U, ...: Bebes el número que se indica.
 - Mano señalando: Mandas beber 1U a otro jugador.
-- Señal de wifi: Accedeis a la página super guay del juego,
+- Señal de wifi: Accedeis a la aplicación web super guay del juego,
 pulsais "NUEVO RETO" y lo que os cuente. En caso de toner
 móvil/internet, te vuelves a africa puto negro. O tratas esta
 pieza como una del siguiente tipo.
